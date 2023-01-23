@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473100609882",
+    "project_id": "thelaundrers",
+    "storage_bucket": "thelaundrers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473100609882:android:6352c0aa53859d210a2b63",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473100609882-5a31l5tme3jqbbf0anb17aa8u25g7q4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDZOplmoREhj1kzPs3waT2-Gl6MbCMQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473100609882-5a31l5tme3jqbbf0anb17aa8u25g7q4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
