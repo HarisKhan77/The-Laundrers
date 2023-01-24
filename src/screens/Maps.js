@@ -44,7 +44,7 @@ const Maps = ({toggleAddress}) => {
   const getAddress = async (lat, lng) => {
     try {
       await Geocoder.fallbackToGoogle(
-        'AIzaSyBCDZOplmoREhj1kzPs3waT2-Gl6MbCMQ0',
+        'Your APi Key',
       );
       let ret = await Geocoder.geocodePosition({lat, lng});
       let addr = ret[0].formattedAddress;
